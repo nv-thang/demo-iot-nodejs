@@ -5,6 +5,7 @@
 Đầu tiên, cần tạo một thư mục, ví dụ `node-firebase`, đây sẽ là thư mục làm việc cho dự án của chúng ta.
 
 Tiếp sau đó, mở thư mục này trên VS code bằng cách kéo thư mục vào phần mềm VS code hoặc chuột phải vào thư mục và chọn `Open with Code`.
+![png](images/open-code.png)
 
 ## Bước 2: Thiết lập các packages cần thiết
 
@@ -64,7 +65,7 @@ Chạy Project bằng câu lệnh `node server.js` trên terminal:
 
 ![png](images/kq1.png)
 
-## Bước 5: Tạo dạo diện hiển thị cho website
+## Bước 5: Tạo giao diện hiển thị cho website
 Ở bước trên chúng ta đã lấy được dữ liệu trên firebase và hiển thị trên Terminal. Ở bước này chúng ta sẽ chỉnh sửa lại code để hiển thị dữ liệu lên một trang web bằng gói Express.
 
 Chỉnh sửa lại file `server.js` như sau
